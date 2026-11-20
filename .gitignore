@@ -1,2 +1,9 @@
-# Ignore all object and executable files.
+# Object, executable files, or byte code files.
 bin/
+*.pyc
+
+# Cache files.
+**/__pycache__/
+
+# ISO
+*.img
