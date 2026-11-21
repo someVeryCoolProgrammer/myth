@@ -9,7 +9,7 @@
 
 # Pull Requests
 
-1) Fork/clone the repository
+1) Fork or clone the myth's repository
 2) Create a branch for your changes
 3) Open a pull request explaining:  
     - What did you change?  
